@@ -6,3 +6,6 @@
 - Redo Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ctrl + Y**
 - Delete a line &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Shift + Delete**
 - Move line &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Alt + Down Arrow&#9660;/Up Arrow**&#9650;
+- Back Tab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Shift + Tab**
+- Stop the Terminal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + C**
+- Check Function Details &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + Click**
