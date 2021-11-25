@@ -1,6 +1,7 @@
 # Jupyter Notebook Shorcuts
 - Enter to Command mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Esc** 
 - Enter to Edit mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Enter** 
+- For Suggestion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tab**
 - While in command Mode:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To see the Shortcuts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **H**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. To Delete the line &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **D , D**<br>
