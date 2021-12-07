@@ -1,1 +1,21 @@
-
+# Codeblocks Shortcuts
+- Comment highlighted code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + Shift + C**
+- Uncomment highlighted code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + Shift + X**
+- Duplicate Selected/Cursor line &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + D**
+- Auto-complete / Abbreviations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + Space / Ctrl + J**
+- Swap line caret is on with line above it &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + T**
+- Undo last action &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + Z**
+- Redo last action &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ctrl + Shift + Z**
+- Magnify text size **Ctrl + Keypad "+"**
+- Reduce text size.	**Ctrl + Keypad "-"**
+- Cut the line **Ctrl + L**
+- Copy the line **Ctrl + Shift + T**
+- Delete Line **Ctrl + Shift + L**
+- Save current file	**Ctrl + S**
+- Find **Ctrl + F**
+- Find Next **F3**
+- Find Previous **Shift + F3**
+- Replace **Ctrl + R**
+- Build	**Ctrl + F9**
+- Run **Ctrl + F10**
+- Build and Run	**F9**
