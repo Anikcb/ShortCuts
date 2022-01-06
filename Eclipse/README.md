@@ -1,1 +1,2 @@
-
+ -  Autocomplete Recommendation **Ctrl + Space**
+ -  type "sysout" (without the quotes), then hit **Ctrl + Space** to Print System.out.println() 
