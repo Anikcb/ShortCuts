@@ -1,4 +1,4 @@
-# There will be the Shortcuts of IDE's: 
+# Shortcuts of IDE's and Operating Systems: 
 ### Jupyter Notebook, Codeblocks, Visual Studio Code, Eclipse, Pycharm, Sublime text, Intellij Idea.
 <br><br><br>
 
